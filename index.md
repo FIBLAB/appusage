@@ -8,7 +8,9 @@ See all other [UbiComp/ISWC 2019 Tutorials](http://ubicomp.org/ubicomp2019/progr
 ## MOTIVATION
 
 The wide adoption of mobile devices and smartphone applications (apps) has enabled highly convenient and ubiquitous access to Internet services. For both app developers and service providers, it becomes increasingly important to predict how users use mobile apps under various contexts. Mining and learning from smartphone apps for users is an important and emerging research field. Research on mobile apps is beginning to grow up fast in the recent years. During the past four years of UbiComp, there are more than 10 papers on analysis and mining of smartphone apps, even one of them won the Best Paper Award of UbiComp2016.
+
 Mining and learning from smartphone apps for users is very relevant to ubiquitous computing. Smartphone app are ubiquitous in our daily life. Abundant apps provide useful services in almost every aspect of modern life. Easy to download and often free, apps can be fun and convenient for playing games, getting turn-by-turn directions, and accessing news, books, weather, and more. Apps on smartphones can be considered as the entry point to access everyday life services such as communication, shopping, navigation, and entertainment. Since a smartphone is linked to an individual user, apps in smartphones can sense users’ behavior and activities. Researchers use the data recorded by smartphone apps to analyze apps and understand users. However, there are still not yet so many researchers in this emerging field. One reason is the dataset available for research and the second reason is the area is relatively new. As the researchers working in this area with more than 5 years and publishing more than 30 related high quality papers in this area in the top conference, we would like to provide a tutorial will provide a compact platform to help researchers to focus on this research area, and also open several dataset in this tutorial.
+
 This tutorial is helpful for researchers to learn the basic idea and techniques in this area, and also distribute the latest progress on this hop topic, to promote the research area. First, the participants of this workshop can learn the data, methods, tools, and experiences from the analysis of smartphone apps. Second, the findings and discussions that are presented in the tutorial can motivate researchers. Third, by bringing together participants with a variety of backgrounds and goals, this tutorial provides a platform for interdisciplinary cooperation and networking. 
 
 
@@ -20,31 +22,3 @@ Based on our past research in this area, we would like to run the first full day
 ### INTENDED AUDIENCE AND REQUIRED KNOWLEDGE
 
 This tutorial is in the area of context-aware smartphone app usage behavior modeling and prediction. which is a popular and also relative new topic in the area of ubiquitous computing. The prerequisite knowledge for the audience includes the understanding of the basics of mobile system and networking, data science and data mining, and basic technical foundations of machine learning.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FIBLAB/appusage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
