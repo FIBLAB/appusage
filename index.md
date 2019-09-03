@@ -5,7 +5,7 @@ Weclome to UbiComp/ISWC 2019 Tutorial on Smartphone App Usage, Understanding, Mo
 
 See all other [UbiComp/ISWC 2019 Tutorials](http://ubicomp.org/ubicomp2019/program_tutorials.html).
 
-## Motivation
+# Motivation
 
 The wide adoption of mobile devices and smartphone applications (apps) has enabled highly convenient and ubiquitous access to Internet services. For both app developers and service providers, it becomes increasingly important to predict how users use mobile apps under various contexts. Mining and learning from smartphone apps for users is an important and emerging research field. Research on mobile apps is beginning to grow up fast in the recent years. During the past four years of UbiComp, there are more than 10 papers on analysis and mining of smartphone apps, even one of them won the Best Paper Award of UbiComp2016.
 
@@ -15,15 +15,15 @@ This tutorial is helpful for researchers to learn the basic idea and techniques 
 
 
 
-## Abstract
+# Abstract
 
 Based on our past research in this area, we would like to run the first full day tutorial of Smartphone Apps Usage Understanding, Modelling and Prediction, which targets the audience of both researcher, engineers, and graduate student. In a nutshell, this tutorial aims to provide an in-depth and solid introduction on applying data science and data mining to smartphone app suage modeling through comprehensive theory and technical details as well as through detailed examples. In order to attract more participants and researchers to this tutorial, we will share two app datasets in terms of both short-term context-aware data and long-term usage dataset. This will provide a foundation for potential researchers interested in this area and a forum for the participants to communicate and discuss issues to promote the emerging research field.
 
-## Intended Audience and Required Knowledge
+# Intended Audience and Required Knowledge
 
 This tutorial is in the area of context-aware smartphone app usage behavior modeling and prediction. which is a popular and also relative new topic in the area of ubiquitous computing. The prerequisite knowledge for the audience includes the understanding of the basics of mobile system and networking, data science and data mining, and basic technical foundations of machine learning.
 
-## Brief Biography of Presenters
+# Brief Biography of Presenters
 
 ### Yong Li
 
@@ -47,8 +47,4 @@ Yong has taught at CCF ADL Spatial-Temporal Big Data along with ACM SIGSPATIAL 2
 ![](images/sasu.png?raw=true)
 
 [Sasu Tarkoma](https://www.cs.helsinki.fi/u/starkoma/) is a Professor and Head the Department of Computer Science at the University of Helsinki. His research interests are data science, Internet technology, distributed systems, data analytics, and mobile and ubiquitous computing. His research has received several Best Paper awards and mentions, for example at IEEE PerCom, ACM CCR, and ACM OSR. His major achievements include the Carat energy profiler project with over 850 000 users globally. The Carat project has received the prestigious Mark Weiser Best Paper award at IEEE Percom 2015. 
-
-
-
-//## Materials
 
