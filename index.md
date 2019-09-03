@@ -1,3 +1,10 @@
+
+Weclome to UbiComp/ISWC 2019 Tutorial  Online User Engagement: Metrics and Optimization.
+
+Date: Sept. 10th (Day 2), Morning
+Location: QEII Centre in London, UK
+See all other [UbiComp/ISWC 2019 Tutorials](http://ubicomp.org/ubicomp2019/program_tutorials.html).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FIBLAB/appusage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
