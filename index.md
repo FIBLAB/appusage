@@ -25,7 +25,7 @@ This tutorial is in the area of context-aware smartphone app usage behavior mode
 
 ## Brief Biography of Presenters
 
-![](images/yong.png?raw=true)
+![Yong Li](images/yong.png?raw=true)
 
 [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/) is currently an Associate Professor of the Department of Electronic Engineering, Tsinghua University. He received the B.S. degree in electronics and information engineering from Huazhong University of Science and Technology, Wuhan, China, in 2007 and the Ph.D. degree in electronic engineering from Tsinghua University, Beijing, China, in 2012. Dr. Li is one of Associate Editors of IMWUT. His papers have total citations more than 6400. Among them, ten are ESI Highly Cited Papers in Computer Science, and four receive conference Best Paper (run-up) Awards.
 Yong has taught at CCF ADL Spatial-Temporal Big Data along with ACM SIGSPATIAL 2020 Pre-Workshop on the topic of Context-aware App Modeling and Prediction; 2017-now: graduate class of  Mobile Data Mining; 2013-now: undergraduate class of Computer Networks and Mobile Computing. Invited talk of “DeepMove: Predicting Human Mobility with Deep Neural Networks” in Mobile Big Data and Social Networks
