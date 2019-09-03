@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: Smartphone Apps Usage Understanding, Modelling and Prediction
 description: UbiComp/ISWC 2019 Tutorial
 show_downloads: false
+github:
 is_project_page: false
