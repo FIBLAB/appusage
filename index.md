@@ -35,18 +35,18 @@ Yong has taught at CCF ADL Spatial-Temporal Big Data along with ACM SIGSPATIAL 2
 ###Vassilis Kostakos
 ![](images/vassilis.png?raw=true)
 
-[Vassilis Kostakos]() is a Professor in Human-Computer Interaction at the University of Melbourne School of Computing and Information Systems. He is a Marie Curie Fellow, a Fellow in the Academy of Finland Distinguished Professor Program, and a Founding Editor of the PACM IMWUT journal. He holds a PhD in Computer Science from the University of Bath. His research interests include ubiquitous computing (Ubicomp), human-computer interaction (HCI), social computing, and Internet of Things.
+[Vassilis Kostakos](https://people.eng.unimelb.edu.au/vkostakos/) is a Professor in Human-Computer Interaction at the University of Melbourne School of Computing and Information Systems. He is a Marie Curie Fellow, a Fellow in the Academy of Finland Distinguished Professor Program, and a Founding Editor of the PACM IMWUT journal. He holds a PhD in Computer Science from the University of Bath. His research interests include ubiquitous computing (Ubicomp), human-computer interaction (HCI), social computing, and Internet of Things.
 
 ###Sha Zhao
 ![](images/sha.png?raw=true)
 
-[Sha Zhao]() is currently a Postdoctoral Research Fellow of the College of Computer Science and Technology, Zhejiang University. She received the Ph.D. degree from Zhejiang University, Hangzhou, China, in 2017. Her research interests include ubiquitous computing, mobile sensing, data mining, and machine learning. She focuses on mining and learning from smartphone apps, and one of her work won the Best Paper Award of UbiComp’16. 
+[Sha Zhao](http://www.shazhao.net/) is currently a Postdoctoral Research Fellow of the College of Computer Science and Technology, Zhejiang University. She received the Ph.D. degree from Zhejiang University, Hangzhou, China, in 2017. Her research interests include ubiquitous computing, mobile sensing, data mining, and machine learning. She focuses on mining and learning from smartphone apps, and one of her work won the Best Paper Award of UbiComp’16. 
 
 
 ###Sasu Tarkoma
-![](images/tarkoma.png?raw=true)
+![](images/sasu.png?raw=true)
 
-[Sasu Tarkoma]() is a Professor and Head the Department of Computer Science at the University of Helsinki. His research interests are data science, Internet technology, distributed systems, data analytics, and mobile and ubiquitous computing. His research has received several Best Paper awards and mentions, for example at IEEE PerCom, ACM CCR, and ACM OSR. His major achievements include the Carat energy profiler project with over 850 000 users globally. The Carat project has received the prestigious Mark Weiser Best Paper award at IEEE Percom 2015. 
+[Sasu Tarkoma](https://www.cs.helsinki.fi/u/starkoma/) is a Professor and Head the Department of Computer Science at the University of Helsinki. His research interests are data science, Internet technology, distributed systems, data analytics, and mobile and ubiquitous computing. His research has received several Best Paper awards and mentions, for example at IEEE PerCom, ACM CCR, and ACM OSR. His major achievements include the Carat energy profiler project with over 850 000 users globally. The Carat project has received the prestigious Mark Weiser Best Paper award at IEEE Percom 2015. 
 
 
 
