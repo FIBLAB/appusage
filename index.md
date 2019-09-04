@@ -1,7 +1,7 @@
 
 Weclome to UbiComp/ISWC 2019 Tutorial on Smartphone App Usage, Understanding, Modelling, And Prediction
 * Date: Sept. 10th (Day 2), Morning
-* Location: QEII Centre in London, UK
+* Location: Room Abbey, QEII Centre in London, UK
 
 See all other [UbiComp/ISWC 2019 Tutorials](http://ubicomp.org/ubicomp2019/program_tutorials.html).
 
