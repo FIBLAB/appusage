@@ -5,6 +5,12 @@ Weclome to UbiComp/ISWC 2019 Tutorial on Smartphone App Usage, Understanding, Mo
 
 See all other [UbiComp/ISWC 2019 Tutorials](http://ubicomp.org/ubicomp2019/program_tutorials.html).
 
+
+# Abstract
+
+Based on our past research in this area, we would like to run the first full day tutorial of Smartphone Apps Usage Understanding, Modelling and Prediction, which targets the audience of both researcher, engineers, and graduate student. In a nutshell, this tutorial aims to provide an in-depth and solid introduction on applying data science and data mining to smartphone app suage modeling through comprehensive theory and technical details as well as through detailed examples. In order to attract more participants and researchers to this tutorial, we will share two app datasets in terms of both short-term context-aware data and long-term usage dataset. This will provide a foundation for potential researchers interested in this area and a forum for the participants to communicate and discuss issues to promote the emerging research field.
+
+
 # Motivation
 
 The wide adoption of mobile devices and smartphone applications (apps) has enabled highly convenient and ubiquitous access to Internet services. For both app developers and service providers, it becomes increasingly important to predict how users use mobile apps under various contexts. Mining and learning from smartphone apps for users is an important and emerging research field. Research on mobile apps is beginning to grow up fast in the recent years. During the past four years of UbiComp, there are more than 10 papers on analysis and mining of smartphone apps, even one of them won the Best Paper Award of UbiComp2016.
@@ -15,9 +21,6 @@ This tutorial is helpful for researchers to learn the basic idea and techniques 
 
 
 
-# Abstract
-
-Based on our past research in this area, we would like to run the first full day tutorial of Smartphone Apps Usage Understanding, Modelling and Prediction, which targets the audience of both researcher, engineers, and graduate student. In a nutshell, this tutorial aims to provide an in-depth and solid introduction on applying data science and data mining to smartphone app suage modeling through comprehensive theory and technical details as well as through detailed examples. In order to attract more participants and researchers to this tutorial, we will share two app datasets in terms of both short-term context-aware data and long-term usage dataset. This will provide a foundation for potential researchers interested in this area and a forum for the participants to communicate and discuss issues to promote the emerging research field.
 
 # Intended Audience and Required Knowledge
 
@@ -50,3 +53,36 @@ This tutorial is in the area of context-aware smartphone app usage behavior mode
 [Vassilis Kostakos](https://people.eng.unimelb.edu.au/vkostakos/) is a Professor in Human-Computer Interaction at the University of Melbourne School of Computing and Information Systems. He is a Marie Curie Fellow, a Fellow in the Academy of Finland Distinguished Professor Program, and a Founding Editor of the PACM IMWUT journal. He holds a PhD in Computer Science from the University of Bath. His research interests include ubiquitous computing (Ubicomp), human-computer interaction (HCI), social computing, and Internet of Things.
 
 
+# Format and Schedule 
+
+This tutorial will be given by five talks in about 4 hours, and each talk will be given by one speakers. The detailed scheduling is as follows.
+* 09:00-9:45 Background, App Data Collection and Datasets (Sasu Tarkoma, Yong Li)
+* 09:45-10:30 Smartphone App Usage Modeling (Vassilis Kostakos)
+* 10:45-11:30 App Usage Prediction and Recommendation(Yong Li)
+* 11:30-12:15. User Profiling from the App Usage (Sha Zhao)
+
+
+# Dataset and Publications
+### Datasets
+* App usage dataset (http://fi.ee.tsinghua.edu.cn/appusage/)
+* Long-term App Usage: Carat. (https://www.cs.helsinki.fi/group/carat/data-sharing/)
+
+### Related Publications
+* Tu, Z., Li, R., Li, Y., Wang, G., Wu, D., Hui, P., ... & Jin, D. Your apps give you away: distinguishing mobile users by their app usage fingerprints, ACM IMWUT/UbiComp, 2018, 2(3), 138.
+* Zeng, M., Lin, T. H., Chen, M., Yan, H., Huang, J., Wu, J., & Li, Y. Temporal-spatial mobile application usage understanding and popularity prediction for edge caching, IEEE Wireless Communications, 2018, 25(3), 36-42.
+* Yu, D., Li, Y., Xu, F., Zhang, P., & Kostakos, V. Smartphone app usage prediction using points of interest, ACM IMWUT/UbiComp, 2018, 1(4), 174.
+* Chen, X., Wang, Y., He, J., Pan, S., Li, Y., & Zhang, P. CAP: Context-aware App Usage Prediction with Heterogeneous Graph Embedding, ACM IMWUT/UbiComp, 2019, 3(1), 4.
+* Wang, H., Li, Y., Zeng, S., Wang, G., Zhang, P., Hui, P., & Jin, D. Modeling Spatio-Temporal App Usage for a Large User Population, ACM IMWUT/UbiComp, 2019, 3(1), 27.
+* Chen, X., Zhu, Z., Chen, M., & Li, Y. Large-scale mobile fitness app usage analysis for smart health, IEEE Communications Magazine, 2018, 56(4), 46-52.
+* Tu, Z., Fan, Y., Li, Y., Chen, X., Su, L., & Jin, D. From Fingerprint to Footprint: Cold-start Location Recommendation by Learning User Interest from App Data, ACM IMWUT/UbiComp, 2019, 3(1), 26.
+* Xia, T., Li, Y. Revealing Urban Dynamics by Learning Online and Offline Behaviours Together, ACM IMWUT/UbiComp, 2019, 3(1), 30.
+* Wang, H., Xu, F., Li, Y., Zhang, P., & Jin, D. Understanding mobile traffic patterns of large scale cellular towers in urban environment, ACM IMC, 2015, pp. 225-238.
+* Huang, J., Xu, F., Lin, Y., & Li, Y. On the understanding of interdependency of mobile app usage, IEEE MASS, 2017, pp. 471-475.
+* Aku Visuri, Niels van Berkel, Tadashi Okoshi, Jorge Goncalves, Vassilis Kostakos. 2019. "Understanding smartphone notifications' user interactions and content importance", International Journal of Human-Computer Studies, vol. 128, pp. 72-85.
+* G. Berenguer, J. Goncalves, S. Hosio, D. Ferreira, T. Anagnostopoulos, V. Kostakos. 2017. "Are Smartphones Ubiquitous? An In-depth Survey of Smartphone Adoption by Seniors", IEEE Consumer Electronics Magazine, vol. 6, no. 1, pp. 104-110.
+* N. van Berkel, C. Luo, T. Anagnostopoulos, D. Ferreira, J. Goncalves, S. Hosio, V. Kostakos. 2016. "A Systematic Assessment of Smartphone Usage Gaps", Proc. Conference on Human Factors in Computing Systems (CHI), pp. 4711-4721.
+* V. Kostakos, D. Ferreira, J. Goncalves, S. Hosio. 2016. "Modelling Smartphone Usage: A Markov State Transition Model", Proc. International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), pp. 486-497. 
+* S. L. Jones, D. Ferreira, S. Hosio, J. Goncalves, V. Kostakos. 2015. "Revisitation Analysis of Smartphone App Use", Proc. International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), pp. 1197-1208. 
+* Sha Zhao, Julian Ramos, Jianrong Tao, Ziwen Jiang, Shijian Li, Zhaohui Wu, Gang Pan, and Anind Dey. Discovering Different Kinds of Smartphone Users Through Their Application Usage Behaviors. The 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016) [Best Paper Award]
+* Sha Zhao, Zhiling Luo, Ziwen Jiang, Haiyan Wang, Feng Xu, Shijian Li, Jianwei Yin, and Gang Pan. AppUsage2Vec: Modeling Smartphone App Usage for Prediction. The 35th IEEE International Conference on Data Engineering (ICDE2019)
+* Sha Zhao, Gang Pan, Yifan Zhao, Jianrong Tao, Jinlai Chen, Shijian Li, and Zhaohui Wu. Mining User Attributes Using Large-scale APP lists of Smartphones. IEEE SYSTEMS JOURNAL
