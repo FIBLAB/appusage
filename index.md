@@ -64,11 +64,11 @@ This tutorial will be given by five talks in about 4 hours, and each talk will b
 
 # Dataset and Publications
 ### Datasets
-* App usage dataset (http://fi.ee.tsinghua.edu.cn/appusage/)
-* Long-term App Usage: Carat. (https://www.cs.helsinki.fi/group/carat/data-sharing/)
+* [App usage dataset](http://fi.ee.tsinghua.edu.cn/appusage/)
+* Long-term App Usage: [Carat](https://www.cs.helsinki.fi/group/carat/data-sharing/).
 
 ### Related Publications
-* Tu, Z., Li, R., Li, Y., Wang, G., Wu, D., Hui, P., ... & Jin, D. Your apps give you away: distinguishing mobile users by their app usage fingerprints, ACM IMWUT/UbiComp, 2018, 2(3), 138.
+* Tu, Z., Li, R., Li, Y., Wang, G., Wu, D., Hui, P., Su, L., Jin, D. Your apps give you away: distinguishing mobile users by their app usage fingerprints, ACM IMWUT/UbiComp, 2018, 2(3), 138.
 * Zeng, M., Lin, T. H., Chen, M., Yan, H., Huang, J., Wu, J., & Li, Y. Temporal-spatial mobile application usage understanding and popularity prediction for edge caching, IEEE Wireless Communications, 2018, 25(3), 36-42.
 * Yu, D., Li, Y., Xu, F., Zhang, P., & Kostakos, V. Smartphone app usage prediction using points of interest, ACM IMWUT/UbiComp, 2018, 1(4), 174.
 * Chen, X., Wang, Y., He, J., Pan, S., Li, Y., & Zhang, P. CAP: Context-aware App Usage Prediction with Heterogeneous Graph Embedding, ACM IMWUT/UbiComp, 2019, 3(1), 4.
