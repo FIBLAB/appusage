@@ -44,7 +44,7 @@ Yong has taught at CCF ADL Spatial-Temporal Big Data along with ACM SIGSPATIAL 2
 
 
 ### Sasu Tarkoma
-![](images/sasu.png?raw=true){:width="300"}
+![](images/sasu.png?raw=true){:width="240"}
 
 [Sasu Tarkoma](https://www.cs.helsinki.fi/u/starkoma/) is a Professor and Head the Department of Computer Science at the University of Helsinki. His research interests are data science, Internet technology, distributed systems, data analytics, and mobile and ubiquitous computing. His research has received several Best Paper awards and mentions, for example at IEEE PerCom, ACM CCR, and ACM OSR. His major achievements include the Carat energy profiler project with over 850 000 users globally. The Carat project has received the prestigious Mark Weiser Best Paper award at IEEE Percom 2015. 
 
