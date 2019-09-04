@@ -64,8 +64,8 @@ This tutorial will be given by five talks in about 4 hours, and each talk will b
 
 # Dataset and Publications
 ### Datasets
-* [App usage dataset](http://fi.ee.tsinghua.edu.cn/appusage/)
-* Long-term App Usage: [Carat](https://www.cs.helsinki.fi/group/carat/data-sharing/).
+* App usage dataset ([http://fi.ee.tsinghua.edu.cn/appusage/) ([http://fi.ee.tsinghua.edu.cn/appusage/](http://fi.ee.tsinghua.edu.cn/appusage/) ([http://fi.ee.tsinghua.edu.cn/appusage/))
+* Long-term App Usage: Carat ([https://www.cs.helsinki.fi/group/carat/data-sharing/](https://www.cs.helsinki.fi/group/carat/data-sharing/)).
 
 ### Related Publications
 * Tu, Z., Li, R., Li, Y., Wang, G., Wu, D., Hui, P., Su, L., Jin, D. Your apps give you away: distinguishing mobile users by their app usage fingerprints, ACM IMWUT/UbiComp, 2018, 2(3), 138.
