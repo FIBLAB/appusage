@@ -61,11 +61,10 @@ This tutorial is in the area of context-aware smartphone app usage behavior mode
 # Format and Schedule 
 
 This tutorial will be given by five talks in about 4 hours, and each talk will be given by one speakers. The detailed scheduling is as follows.
-* 09:00-9:45 Background, App Data Collection and Datasets (Sasu Tarkoma, Yong Li)
-* 09:45-10:30 Smartphone App Usage Modeling (Vassilis Kostakos)
-* 10:45-11:30 App Usage Prediction and Recommendation(Yong Li)
-* 11:30-12:15. User Profiling from the App Usage (Sha Zhao)
-
+* 09:00-09:45  Background, App Data Collection and Datasets 
+* 09:45-10:30  Smartphone and App Usage Modeling
+* 10:45-11:30  App Usage Prediction and Recommendation
+* 11:30-12:15  User Profiling from the App Usage, and Conclusion.
 
 # Dataset and Publications
 ### Datasets
@@ -73,21 +72,23 @@ This tutorial will be given by five talks in about 4 hours, and each talk will b
 * Long-term App Usage: Carat ([https://www.cs.helsinki.fi/group/carat/data-sharing/](https://www.cs.helsinki.fi/group/carat/data-sharing/)).
 
 ### Related Publications
-* Tu, Z., Li, R., Li, Y., Wang, G., Wu, D., Hui, P., Su, L., Jin, D. Your apps give you away: distinguishing mobile users by their app usage fingerprints, ACM IMWUT/UbiComp, 2018, 2(3), 138.
-* Zeng, M., Lin, T. H., Chen, M., Yan, H., Huang, J., Wu, J., & Li, Y. Temporal-spatial mobile application usage understanding and popularity prediction for edge caching, IEEE Wireless Communications, 2018, 25(3), 36-42.
-* Yu, D., Li, Y., Xu, F., Zhang, P., & Kostakos, V. Smartphone app usage prediction using points of interest, ACM IMWUT/UbiComp, 2018, 1(4), 174.
-* Chen, X., Wang, Y., He, J., Pan, S., Li, Y., & Zhang, P. CAP: Context-aware App Usage Prediction with Heterogeneous Graph Embedding, ACM IMWUT/UbiComp, 2019, 3(1), 4.
-* Wang, H., Li, Y., Zeng, S., Wang, G., Zhang, P., Hui, P., & Jin, D. Modeling Spatio-Temporal App Usage for a Large User Population, ACM IMWUT/UbiComp, 2019, 3(1), 27.
-* Chen, X., Zhu, Z., Chen, M., & Li, Y. Large-scale mobile fitness app usage analysis for smart health, IEEE Communications Magazine, 2018, 56(4), 46-52.
-* Tu, Z., Fan, Y., Li, Y., Chen, X., Su, L., & Jin, D. From Fingerprint to Footprint: Cold-start Location Recommendation by Learning User Interest from App Data, ACM IMWUT/UbiComp, 2019, 3(1), 26.
-* Xia, T., Li, Y. Revealing Urban Dynamics by Learning Online and Offline Behaviours Together, ACM IMWUT/UbiComp, 2019, 3(1), 30.
-* Wang, H., Xu, F., Li, Y., Zhang, P., & Jin, D. Understanding mobile traffic patterns of large scale cellular towers in urban environment, ACM IMC, 2015, pp. 225-238.
-* Huang, J., Xu, F., Lin, Y., & Li, Y. On the understanding of interdependency of mobile app usage, IEEE MASS, 2017, pp. 471-475.
-* Aku Visuri, Niels van Berkel, Tadashi Okoshi, Jorge Goncalves, Vassilis Kostakos. 2019. "Understanding smartphone notifications' user interactions and content importance", International Journal of Human-Computer Studies, vol. 128, pp. 72-85.
-* G. Berenguer, J. Goncalves, S. Hosio, D. Ferreira, T. Anagnostopoulos, V. Kostakos. 2017. "Are Smartphones Ubiquitous? An In-depth Survey of Smartphone Adoption by Seniors", IEEE Consumer Electronics Magazine, vol. 6, no. 1, pp. 104-110.
-* N. van Berkel, C. Luo, T. Anagnostopoulos, D. Ferreira, J. Goncalves, S. Hosio, V. Kostakos. 2016. "A Systematic Assessment of Smartphone Usage Gaps", Proc. Conference on Human Factors in Computing Systems (CHI), pp. 4711-4721.
-* V. Kostakos, D. Ferreira, J. Goncalves, S. Hosio. 2016. "Modelling Smartphone Usage: A Markov State Transition Model", Proc. International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), pp. 486-497. 
-* S. L. Jones, D. Ferreira, S. Hosio, J. Goncalves, V. Kostakos. 2015. "Revisitation Analysis of Smartphone App Use", Proc. International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), pp. 1197-1208. 
-* Sha Zhao, Julian Ramos, Jianrong Tao, Ziwen Jiang, Shijian Li, Zhaohui Wu, Gang Pan, and Anind Dey. Discovering Different Kinds of Smartphone Users Through Their Application Usage Behaviors. The 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016) [Best Paper Award]
-* Sha Zhao, Zhiling Luo, Ziwen Jiang, Haiyan Wang, Feng Xu, Shijian Li, Jianwei Yin, and Gang Pan. AppUsage2Vec: Modeling Smartphone App Usage for Prediction. The 35th IEEE International Conference on Data Engineering (ICDE2019)
-* Sha Zhao, Gang Pan, Yifan Zhao, Jianrong Tao, Jinlai Chen, Shijian Li, and Zhaohui Wu. Mining User Attributes Using Large-scale APP lists of Smartphones. IEEE SYSTEMS JOURNAL
+* Zhen Tu, Runtong Li, Yong Li, Gang Wang, Di Wu, Pan Hui, Li Su, Depeng Jin: Your Apps Give You Away: **Distinguishing Mobile Users by Their App Usage Fingerprints**. IMWUT 2(3): 138:1-138:23 (2018)
+* Ming Zeng, Tzu-Heng Lin, Min Chen, Huan Yan, Jiaxin Huang, Jing Wu, Yong Li: Temporal-Spatial Mobile Application Usage Understanding and Popularity Prediction for Edge Caching. IEEE Wireless Commun. 25(3): 36-42 (2018)
+* Donghan Yu, Yong Li, Fengli Xu, Pengyu Zhang, Vassilis Kostakos: Smartphone App Usage Prediction Using Points of Interest. IMWUT 1(4): 174:1-174:21 (2017)
+* Xinlei Chen, Yu Wang, Jiayou He, Shijia Pan, Yong Li, Pei Zhang: CAP: Context-aware App Usage Prediction with Heterogeneous Graph Embedding. IMWUT 3(1): 4:1-4:25 (2019)
+* Huandong Wang, Yong Li, Sihan Zeng, Gang Wang, Pengyu Zhang, Pan Hui, Depeng Jin: Modeling Spatio-Temporal App Usage for a Large User Population. IMWUT 3(1): 27:1-27:23 (2019)
+* Xinlei Chen, Zheqi Zhu, Min Chen, Yong Li: Large-Scale Mobile Fitness App Usage Analysis for Smart Health. IEEE Communications Magazine 56(4): 46-52 (2018)
+* Zhen Tu, Yali Fan, Yong Li, Xiang Chen, Li Su, Depeng Jin:
+From Fingerprint to Footprint: Cold-start Location Recommendation by Learning User Interest from App Data. IMWUT 3(1): 26:1-26:22 (2019)
+* Tong Xia, Yong Li: Revealing Urban Dynamics by Learning Online and Offline Behaviours Together. IMWUT 3(1): 30:1-30:25 (2019)
+* Huandong Wang, Fengli Xu, Yong Li, Pengyu Zhang, Depeng Jin: Understanding Mobile Traffic Patterns of Large Scale Cellular Towers in Urban Environment. Internet Measurement Conference 2015: 225-238
+* Jiaxin Huang, Fengli Xu, Yujun Lin, Yong Li: On the Understanding of Interdependency of Mobile App Usage. MASS 2017: 471-475
+* Aku Visuri, Niels van Berkel, Tadashi Okoshi, Jorge Gonçalves, Vassilis Kostakos: Understanding smartphone notifications' user interactions and content importance. Int. J. Hum.-Comput. Stud. 128: 72-85 (2019)
+* Anabela Berenguer, Jorge Gonçalves, Simo Hosio, Denzil Ferreira, Theodoros Anagnostopoulos, Vassilis Kostakos: Are Smartphones Ubiquitous?: An in-depth survey of smartphone adoption by seniors. IEEE Consumer Electronics Magazine 6(1): 104-110 (2017)
+* Niels van Berkel, Chu Luo, Theodoros Anagnostopoulos, Denzil Ferreira, Jorge Gonçalves, Simo Hosio, Vassilis Kostakos:
+A Systematic Assessment of Smartphone Usage Gaps. CHI 2016: 4711-4721
+* Vassilis Kostakos, Denzil Ferreira, Jorge Gonçalves, Simo Hosio: Modelling smartphone usage: a markov state transition model. UbiComp 2016: 486-497
+* Simon L. Jones, Denzil Ferreira, Simo Hosio, Jorge Gonçalves, Vassilis Kostakos: Revisitation analysis of smartphone app use. UbiComp 2015: 1197-1208
+* Sha Zhao, Julian Ramos, Jianrong Tao, Ziwen Jiang, Shijian Li, Zhaohui Wu, Gang Pan, Anind K. Dey: Discovering different kinds of smartphone users through their application usage behaviors. UbiComp 2016: 498-509 [Best Paper Award]
+* Sha Zhao, Zhiling Luo, Ziwen Jiang, Haiyan Wang, Feng Xu, Shijian Li, Jianwei Yin, Gang Pan: AppUsage2Vec: Modeling Smartphone App Usage for Prediction. ICDE 2019: 1322-1333
+* Sha Zhao, Gang Pan, Yifan Zhao, Jianrong Tao, Jinlai Chen, Shijian Li, Zhaohui Wu: Mining User Attributes Using Large-Scale APP Lists of Smartphones. IEEE Systems Journal 11(1): 315-323 (2017)
