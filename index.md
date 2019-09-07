@@ -72,7 +72,7 @@ This tutorial will be given by five talks in about 4 hours, and each talk will b
 * Long-term App Usage: Carat ([https://www.cs.helsinki.fi/group/carat/data-sharing/](https://www.cs.helsinki.fi/group/carat/data-sharing/)).
 
 ### Related Publications
-* Zhen Tu, Runtong Li, Yong Li, Gang Wang, Di Wu, Pan Hui, Li Su, Depeng Jin: Your Apps Give You Away: **Distinguishing Mobile Users by Their App Usage Fingerprints**. IMWUT 2(3): 138:1-138:23 (2018)
+* Zhen Tu, Runtong Li, Yong Li, Gang Wang, Di Wu, Pan Hui, Li Su, Depeng Jin: **Your Apps Give You Away: Distinguishing Mobile Users by Their App Usage Fingerprints**. IMWUT 2(3): 138:1-138:23 (2018)
 * Ming Zeng, Tzu-Heng Lin, Min Chen, Huan Yan, Jiaxin Huang, Jing Wu, Yong Li: **Temporal-Spatial Mobile Application Usage Understanding and Popularity Prediction for Edge Caching.** IEEE Wireless Commun. 25(3): 36-42 (2018)
 * Donghan Yu, Yong Li, Fengli Xu, Pengyu Zhang, Vassilis Kostakos: **Smartphone App Usage Prediction Using Points of Interest.** IMWUT 1(4): 174:1-174:21 (2017)
 * Xinlei Chen, Yu Wang, Jiayou He, Shijia Pan, Yong Li, Pei Zhang: **CAP: Context-aware App Usage Prediction with Heterogeneous Graph Embedding.** IMWUT 3(1): 4:1-4:25 (2019)
@@ -90,3 +90,7 @@ This tutorial will be given by five talks in about 4 hours, and each talk will b
 * Sha Zhao, Julian Ramos, Jianrong Tao, Ziwen Jiang, Shijian Li, Zhaohui Wu, Gang Pan, Anind K. Dey: **Discovering different kinds of smartphone users through their application usage behaviors.** UbiComp 2016: 498-509 [Best Paper Award]
 * Sha Zhao, Zhiling Luo, Ziwen Jiang, Haiyan Wang, Feng Xu, Shijian Li, Jianwei Yin, Gang Pan: **AppUsage2Vec: Modeling Smartphone App Usage for Prediction.** ICDE 2019: 1322-1333
 * Sha Zhao, Gang Pan, Yifan Zhao, Jianrong Tao, Jinlai Chen, Shijian Li, Zhaohui Wu: **Mining User Attributes Using Large-Scale APP Lists of Smartphones.** IEEE Systems Journal 11(1): 315-323 (2017)
+
+
+# Materials
+The online version of the slides is available at this [link]().
