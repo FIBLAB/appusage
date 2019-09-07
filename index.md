@@ -93,4 +93,4 @@ This tutorial will be given by five talks in about 4 hours, and each talk will b
 
 
 # Materials
-The online version of the slides is available at this [link](https://github.com/fiblab/slides/UBICOMP_Tutorial.pdf).
+The online version of the slides is available at this [link](https://github.com/fiblab/slides/UBICOMP_Tutorial.pdf). [[PDF]](https://github.com/fiblab/slides/UBICOMP_Tutorial.pdf)
